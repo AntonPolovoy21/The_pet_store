@@ -1,5 +1,5 @@
 # The_pet_store_PHP
-> Так выглядит главная страница:
+> **Так выглядит главная страница:
 ---
 ![image](https://github.com/AntonPolovoy21/The_pet_store_PHP/assets/92354499/b53323ab-23b7-4f91-832e-8a5e07a82638)
 > Авторизация:
