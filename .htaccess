@@ -1,0 +1,2 @@
+#404 Страница не найдена
+ErrorDocument 404 /default/index.html
